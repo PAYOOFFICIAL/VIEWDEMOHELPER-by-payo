@@ -1,3 +1,4 @@
+# VIEWDEMOHELPER 1.3.0 Steam CS и GSClient
 # Описание
 View Demo Helper - дополнение для Steam версии игры Counter-Strike 1.6, созданное
 для удобства просмотра демо записей (файлов с расширением *.dem) и помощи в
